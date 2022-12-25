@@ -1,0 +1,39 @@
+.education-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .education-section {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .school-logo {
+    width: 100px;
+    margin-right: 20px;
+  }
+  
+  .school-logo img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .school-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .school-info h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .school-info p {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+  }
+  

@@ -1,0 +1,31 @@
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .button {
+    width: 100%;
+    background-color: gray;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0
+  }
+
+  .button:hover {
+    background-color: black;
+  }
